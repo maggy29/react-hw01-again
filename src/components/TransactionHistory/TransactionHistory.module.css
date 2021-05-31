@@ -1,0 +1,17 @@
+.table {
+  width: 540px;
+  margin-bottom: 100px;
+}
+
+.thead {
+  background-color: #888;
+}
+.tr {
+  height: 40px;
+}
+.tr:nth-of-type(even) {
+  background-color: #eee;
+}
+.td {
+  text-align: center;
+}

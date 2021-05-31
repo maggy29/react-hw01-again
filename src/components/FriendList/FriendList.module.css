@@ -1,0 +1,17 @@
+.friendList {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+
+.item {
+  width: 360;
+  height: 100px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
